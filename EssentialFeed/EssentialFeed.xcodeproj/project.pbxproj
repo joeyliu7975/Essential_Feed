@@ -19,6 +19,7 @@
 		0D81C17A29ADE0920060F319 /* FeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81C17929ADE0920060F319 /* FeedLoader.swift */; };
 		0D81C17C29ADE1180060F319 /* RemoteFeedLoaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81C17B29ADE1180060F319 /* RemoteFeedLoaderTests.swift */; };
 		0D81C17F29B303BF0060F319 /* RemoteFeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81C17E29B303BF0060F319 /* RemoteFeedLoader.swift */; };
+		0D9F42832A358B410042681F /* FeedItemsMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9F42822A358B410042681F /* FeedItemsMapper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		0D81C17929ADE0920060F319 /* FeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedLoader.swift; sourceTree = "<group>"; };
 		0D81C17B29ADE1180060F319 /* RemoteFeedLoaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoaderTests.swift; sourceTree = "<group>"; };
 		0D81C17E29B303BF0060F319 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
+		0D9F42822A358B410042681F /* FeedItemsMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItemsMapper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 			isa = PBXGroup;
 			children = (
 				0D81C17E29B303BF0060F319 /* RemoteFeedLoader.swift */,
+				0D9F42822A358B410042681F /* FeedItemsMapper.swift */,
 			);
 			path = FeedAPI;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				0D81C17729ADE0520060F319 /* FeedItem.swift in Sources */,
 				0D81C14929ACC1310060F319 /* ViewController.swift in Sources */,
 				0D81C14529ACC1310060F319 /* AppDelegate.swift in Sources */,
+				0D9F42832A358B410042681F /* FeedItemsMapper.swift in Sources */,
 				0D81C17A29ADE0920060F319 /* FeedLoader.swift in Sources */,
 				0D81C17F29B303BF0060F319 /* RemoteFeedLoader.swift in Sources */,
 				0D81C14729ACC1310060F319 /* SceneDelegate.swift in Sources */,
