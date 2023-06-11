@@ -123,6 +123,7 @@
 		0D81C15A29ACC1330060F319 /* EssentialFeedTests */ = {
 			isa = PBXGroup;
 			children = (
+				0D9F42842A3595990042681F /* Feed API */,
 				0D81C17B29ADE1180060F319 /* RemoteFeedLoaderTests.swift */,
 			);
 			path = EssentialFeedTests;
@@ -153,6 +154,13 @@
 				0D9F42822A358B410042681F /* FeedItemsMapper.swift */,
 			);
 			path = FeedAPI;
+			sourceTree = "<group>";
+		};
+		0D9F42842A3595990042681F /* Feed API */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Feed API";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
